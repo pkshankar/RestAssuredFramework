@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-28T12:05:11Z" name="Default suite" finished-at="2019-09-28T12:05:18Z" duration-ms="7700">
+    <groups>
+    </groups>
+    <test started-at="2019-09-28T12:05:11Z" name="Default test" finished-at="2019-09-28T12:05:18Z" duration-ms="7700">
+      <class name="com.qa.test.CustomerRegistrationPost">
+        <test-method signature="createCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.test.CustomerRegistrationPost@48524010]" started-at="2019-09-28T17:35:11Z" name="createCustomerTest" data-provider="getTestDataCustomer" finished-at="2019-09-28T17:35:15Z" duration-ms="4041" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jakson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mike]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mikej]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jmike1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[jack123@zmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method signature="createCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.test.CustomerRegistrationPost@48524010]" started-at="2019-09-28T17:35:15Z" name="createCustomerTest" data-provider="getTestDataCustomer" finished-at="2019-09-28T17:35:17Z" duration-ms="1779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[peter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sony]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[petsony]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sony45]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[petsony@zmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method signature="createCustomerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.test.CustomerRegistrationPost@48524010]" started-at="2019-09-28T17:35:17Z" name="createCustomerTest" data-provider="getTestDataCustomer" finished-at="2019-09-28T17:35:18Z" duration-ms="1307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Zuber]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Swan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[zuberswan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[zuber65]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[swan@zmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+      </class> <!-- com.qa.test.CustomerRegistrationPost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
