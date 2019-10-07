@@ -1,7 +1,5 @@
 package com.qa.test;
 
-import java.util.ArrayList;
-import java.util.Iterator;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;

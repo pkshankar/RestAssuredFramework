@@ -20,6 +20,7 @@ public class CustomerRegistrationPost {
 	public void createCustomerTest(String FirstName, String LastName, String UserName, String Password, String Email) {
 
 		Response response = TestUtil.postHTTPMethod(FirstName, LastName, UserName, Password, Email);
+		
 
 		// TestObjects tObj = response.as(TestObjects.class); //DESERIALIZATION
 		if (response.getBody().asString().contains("USER_ALREADY_EXISTS")) {
